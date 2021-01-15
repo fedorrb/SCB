@@ -1,0 +1,22 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x422 0x0 0x0 ; Украинский
+REPORT=Yes
+CONTENTS=Інструкція по користуванню програмою
+CNT=scb.cnt
+HLP=scb.hlp
+
+[FILES]
+СЦБ.rtf
+
+[MAP]
+IDH_01=1
+IDH_02=2
+IDH_03=3
+IDH_04=4
+IDH_05=5
+IDH_06=6
+IDH_07=7
+IDH_08=8
+IDH_09=9
